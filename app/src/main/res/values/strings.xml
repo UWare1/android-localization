@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Languages</string>
+    <string name="select_language">Select Language</string>
+    <string name="screen_two_text">Hello Everyone this is the result for language localisation</string>
+</resources>

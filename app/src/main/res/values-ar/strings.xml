@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اللغات</string>
+    <string name="screen_two_text">مرحبًا بالجميع ، هذه نتيجة توطين اللغة</string>
+    <string name="select_language">اختار اللغة</string>
+</resources>

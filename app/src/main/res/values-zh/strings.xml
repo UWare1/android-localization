@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">语言能力</string>
+    <string name="select_language">选择语言</string>
+    <string name="screen_two_text">大家好，大家好，这是语言本地化的结果</string>
+</resources>
